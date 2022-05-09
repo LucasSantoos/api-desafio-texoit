@@ -93,7 +93,7 @@ senha =
         }
     ]
 }
-``
+```
 
 ### Executando os testes de integração
 
